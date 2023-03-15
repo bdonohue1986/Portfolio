@@ -1,0 +1,21 @@
+body
+{
+    text-align: center;
+    background-color: gray;
+}
+.a1
+{
+    color: ghostwhite;
+}
+#joke
+{
+    color : aliceblue;
+}
+a
+{
+    color: aliceblue;
+}
+li
+{
+    list-style-type: none;
+}
